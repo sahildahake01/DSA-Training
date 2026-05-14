@@ -1,4 +1,52 @@
+# GIT & GITHUB COMMANDS
+
+# Check git
+git --version
+
+# Initialize git
+git init
+
+# Add all files
+git add .
+
+# Add specific folder
+git add Day4/
+
+# Add specific file
+git add filename.py
+
+# Commit changes
+git commit -m "message"
+
+# Push to GitHub
+git push
+
+# First time repo connect
+git remote add origin REPO_LINK
+
+# Push first time
+git push -u origin main
+
+# Check connected repo
+git remote -v
+
+# Change repo URL
+git remote set-url origin NEW_REPO_LINK
+
+# Remove repo connection
+git remote remove origin
+
+# Check file status
+git status
+
+# Pull latest code
+git pull origin main
+
+# Force push
+git push -u origin main --force
+
 data structure and algorithm
+
 
 algorithm mai ye chize check krni hai
 1. correctness
