@@ -1,0 +1,18 @@
+data structure and algorithm
+
+algorithm mai ye chize check krni hai
+1. correctness
+2. efficiency
+
+indexing ke hisab se constant set hora hai
+most asked questions big O notation
+
+hackerrank 
+3 que done
+
+leetcode
+two sum
+palindrome
+
+ hackerearth
+ Roy and Profile Picture
