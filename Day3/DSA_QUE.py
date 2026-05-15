@@ -32,7 +32,7 @@
 # SampleArray = [5,7,9,2,3,4]                     #O(1)
 # findBiggestnumber(SampleArray)                  #O(n)
 #----------------------------------------------------------------------------------------------------
-
+#========================================= LINEAR SEARCH =========================================
 #4
 # def linearSearch(array, target):
 #     for i in range(0, len(array)):
@@ -47,7 +47,7 @@
 #     print("Target not Found")
 # else:
 #     print("Target Found at index: ", result)
-
+#=================================================================================================
 #----------------------------------------------------------------------------------------------------
 
 # Q5
@@ -87,16 +87,21 @@
 
 #---------------------------------------------------------------------------------------------------
 
-#Q7
+#Q7  IMP###
 # input = aaabbbbccceeeee
 # output =a3b4c3e5
-# chrr = 'aaabbbbccceeeee'
-# key = 0
-# ct = 0
-# for i in chrr:
-#     if i != ct:
-#         key += i
-# print(key)
+# name = 'aaabbbbccceeeee'
+# newname = {}
+# for i in range(len(name)):
+#     key = name[i]
+#     count = 0
+#     for j in range(len(name)):
+#         if key == name[j]:
+#             count +=1
+#     newname[key] = count
+# print(newname)
+# for i,j in newname.items():
+#     print(i,j,sep='', end='')
 #---------------------------------------------------------------------------------------------------
 
 #hackerrank 1

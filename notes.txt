@@ -64,3 +64,12 @@ palindrome
 
  hackerearth
  Roy and Profile Picture
+
+
+Q
+input lena hai
+ id 
+ name
+ rollno
+
+ update student me pehle std id magana chaiye
