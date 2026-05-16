@@ -55,21 +55,5 @@ algorithm mai ye chize check krni hai
 indexing ke hisab se constant set hora hai
 most asked questions big O notation
 
-hackerrank 
-3 que done
-
-leetcode
-two sum
-palindrome
-
- hackerearth
- Roy and Profile Picture
 
 
-Q
-input lena hai
- id 
- name
- rollno
-
- update student me pehle std id magana chaiye
