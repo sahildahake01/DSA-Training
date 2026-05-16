@@ -5,7 +5,14 @@
 # there are two ways 
 #1. list/array
 #2. linklist
-#  #
+
+#Stack using list:
+#   easy to implement
+#   speed problem when it grow
+#
+#Stack using Linklist:
+#   fast performance
+#   implementation is not easy
 
 #---------------------------------------------------------------------------------------------------
 #Implementation without limit
@@ -162,4 +169,23 @@
 #-----------------------------------------------------------------------------------------------------------------------
 
 #Q4
+
+#student number
+
+#-----------------------------------------------------------------------------------------------------------------------
+
+#Q5
+# input
+# 8
+# 79,77,54,81,48,34,25,16
+# output
+# 3
+# Ch
+# import math
+# arr = [79,77,54,81,48,34,25,16]
+# c =0
+# for i in range(len(arr)):
+#     if math.sqrt(arr[i]) %1 == 0:
+#         c += 1
+# print(c)
 

@@ -48,8 +48,7 @@ Each folder contains problems solved for that particular day along with code imp
 ## 💻 Languages Used
 
 * Python
-* Java
-* C++ *(if applicable)*
+
 
 ## 🎯 Goals
 
@@ -64,7 +63,7 @@ Daily folders are updated with newly solved problems and concepts learned during
 
 ## 🔗 GitHub Repository
 
-[DSA-Training Repository](https://github.com/sahildahake01/DSA-Training?utm_source=chatgpt.com)
+[DSA-Training Repository](https://github.com/sahildahake01/DSA-Training)
 
 ## 🤝 Contribution
 
