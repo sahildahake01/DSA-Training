@@ -1,0 +1,6 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "c:\Users\HP\Desktop\DSA\Day8\Exception_hadling.py", line 30, in <module>
+    print(a/b)
+          ~^~
+ZeroDivisionError: division by zero
